@@ -103,10 +103,3 @@ if (someCondition) {
 * **Audit open-source code and dependencies before use.**
 * **Prefer hardware wallets for better security.**
 
----
-
-If you suspect malicious code in any project or want a code review for security, feel free to reach out or open an issue.
-
----
-
-Would you like me to help you draft this as a README section or a security warning in your repository?
