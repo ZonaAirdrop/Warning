@@ -5,13 +5,6 @@ To avoid wallet designers or private keys being leaked
 
 Example of dangerous file contents
 
-Sure! Here’s a clear and professional explanation in English that you can post on GitHub regarding dangerous code patterns that can compromise wallet security:
-
----
-
-## Dangerous Code Patterns That Can Lead to Wallet Compromise
-
-When working with cryptocurrency wallets, especially in open-source projects, it’s crucial to be aware of common coding mistakes or malicious patterns that can lead to private key leaks or wallet draining. Below are some examples of risky code snippets and practices you should **avoid at all costs**:
 
 ### 1. Sending Private Keys or Seed Phrases to External Servers
 
